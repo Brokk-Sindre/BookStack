@@ -57,7 +57,7 @@ The plan builds on existing code components:
 
 ## Todo List
 
-1. [ ] Create database migration for `text_embeddings` table.
+1. [x] Create database migration for `text_embeddings` table.
 2. [ ] Implement `EmbeddingIndex` service to create and query embeddings.
 3. [ ] Build `AiCollaboratorController` with chat and generation endpoints.
 4. [ ] Add `ai-collaborator.js` TinyMCE plugin with sidebar chat panel.
